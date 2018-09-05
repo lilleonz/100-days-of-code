@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: 4 Sept 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I am ReStarting my #100-days-of-code thru the Microverse pre-course using theodinproject
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Restarting my programming journey after slowing to a crawl at freecodecamp. Now using Microverse trying to stay focused on one class/course at a time.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [My world](https://www.llilleonz.xyz)
+2. []()
