@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [My world](https://www.llilleonz.xyz)
 2. []()
+
+### Day 2: 5 Sept 2018
+
+**Today's Progress**: Day 2 of my ReStart of #100-days-of-code thru the #Microverse #pre-course using #theodinproject
+
+**Thoughts** Restarting my programming journey after slowing to a crawl at freecodecamp. Now using Microverse trying to stay focused on one class/course at a time.
+
+**Link(s) to work**
+1. [My world](https://www.llilleonz.xyz)
+2. []()
