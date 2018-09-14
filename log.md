@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 5: 11 Sept 2018
+
+**Today's Progress**: Day 5 of my ReStart of #100-days-of-code thru the #Microverse #pre-course using #theodinproject
+
+**Thoughts** Working thru css basics The box Model from #codecademy. Restarting my programming journey after first starting on #freecodecamp. Now using Microverse trying to stay focused on one class/course at a time.
+
+**Link(s) to work**
+1. [My world](https://www.llilleonz.xyz)
+2. []()
+
 ### Day 4: 11 Sept 2018
 
 **Today's Progress**: Day 4 of my ReStart of #100-days-of-code thru the #Microverse #pre-course using #theodinproject
